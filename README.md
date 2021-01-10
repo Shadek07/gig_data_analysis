@@ -1,13 +1,13 @@
-#### gig data analysis
+# gig data analysis
 
 Here I will share experimental results of data collected from Gig platforms such as Instacart, DoorDash, Postmates etc.
 
 
-### Instacart platform
+## Instacart platform
 
 I started working as gig employee for Instacart as a shopper back in July, 2020. While I was shopping for customers, I decided to collect all possible shopping data so that later on I can do data analysis using visualization, machine learning models. Here, first I will explain the data that I have been collecting since the beginning of my gig career.
 
-## Data format and description
+### Data format and description
 
 The shopping data is in tabular format where each row corresponds to a “batch” order. A batch is defined by the shopping order of one or more customers from a certain store. Each batch has a certain set of attributes or columns. Now I will describe those attributes.
 
